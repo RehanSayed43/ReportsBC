@@ -1,6 +1,7 @@
 page 50129 MyPagesrt
 {
     PageType = Card;
+yash
     ApplicationArea = All;
     UsageCategory = Administration;
     // SourceTable = TableName;
